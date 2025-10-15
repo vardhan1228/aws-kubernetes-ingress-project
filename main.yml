@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: main
-          image: simonxox/pathbased-web:main-1.0.2
+          image: vardhan1228/main-ui
           imagePullPolicy: Always
           ports:
             - containerPort: 80
